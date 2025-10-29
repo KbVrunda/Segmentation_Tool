@@ -1,5 +1,5 @@
 {
-  "name": "v7-segmentation-tool",
+  "name": "labeling-tool",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
